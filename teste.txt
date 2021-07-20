@@ -2,8 +2,6 @@ teste
 teste
 
 Super alteração de curso
-
-
 Curso 1
 Curso 2
 Curso 3

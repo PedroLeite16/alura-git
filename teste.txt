@@ -1,5 +1,10 @@
 teste
 teste
 
-Super alteração de curso
+Super alteração de nome do curso
+<<<<<<< HEAD
 Curso 3
+=======
+
+Mais uma alteração pq é louco demais
+>>>>>>> titulo
